@@ -882,7 +882,7 @@ const FinancialAnalystDashboard = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <TrendingUp className="w-8 h-8 text-blue-600" />
-              <h1 className="text-2xl font-bold text-gray-900">Financial Market Analyst AI</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Financial Market Analyst Dashboard</h1>
             </div>
             <div className="flex items-center space-x-4">
               <div className="relative search-container">
