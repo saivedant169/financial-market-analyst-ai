@@ -1,4 +1,4 @@
-# 🤖 Financial Market Analyst AI Dashboard
+# 📊 Financial Market Analyst Dashboard
 
 A professional AI-powered financial analysis dashboard that provides real-time market insights using OpenAI GPT-4. Search and analyze Fortune 500 companies with detailed AI-generated reports.
 
@@ -23,7 +23,8 @@ A professional AI-powered financial analysis dashboard that provides real-time m
 
 1. **Clone and Install**
    ```bash
-   cd Desktop/FMA
+   git clone https://github.com/saivedant169/financial-market-analyst-dashboard.git
+   cd financial-market-analyst-dashboard
    npm install
    ```
 
